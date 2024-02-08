@@ -1,2 +1,2 @@
 # Python-Programming
-This file contains python exercises and solutions.
+This repository contains python exercises and solutions.
